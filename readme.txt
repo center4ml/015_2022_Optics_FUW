@@ -1,0 +1,1 @@
+Program, który napisałem dla Jerzego Szuniewicza z FUW w lutym 2022. Program znajduje zależną od częstotliwości fazę, która przekształca impuls gaussowski na dowolny inny, tutaj przykładowo na funkcję falową oscylatora harmonicznego.
